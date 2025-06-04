@@ -42,9 +42,15 @@ This repository documents the creation, configuration, and performance analysis 
 - Latency-sensitive distributed computing
 - Memory-intensive applications
 
-## 📸 Images (Optional)
+## 📸 Images
 
-_Add wiring diagrams, photos of the setup, etc._
+<p align="center">
+  <img src="img/01-cluster.jpg" alt="Raspberry Pi Cluster Front View" width="500"/>
+</p>
+
+<p align="center">
+  <img src="img/02-cluster.jpg" alt="Raspberry Pi Cluster Top View" width="500"/>
+</p>
 
 ## 📚 Useful Resources
 
